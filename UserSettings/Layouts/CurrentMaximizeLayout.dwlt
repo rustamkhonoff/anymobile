@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 16325
+  controlID: 19963
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,7 +141,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 16326
+  controlID: 19964
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -167,7 +167,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 16327
+  controlID: 19965
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -227,7 +227,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: da590000
       m_LastClickedID: 23002
-      m_ExpandedIDs: 7240fdff6c1afeff8edcffff2adeffffc0eaffff32fbffff
+      m_ExpandedIDs: 7240fdff6c1afeff8edcffff2adeffff32fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -502,9 +502,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 66.30744, y: 62.812878, z: 0.52698976}
+    m_Target: {x: 68.08974, y: 73.89391, z: -48.434452}
     speed: 2
-    m_Value: {x: 66.30744, y: 62.812878, z: 0.5269898}
+    m_Value: {x: 68.08974, y: 73.89391, z: -48.434452}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -551,13 +551,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.23409243, y: 0.7159635, z: -0.28207755, w: -0.59416604}
+    m_Target: {x: -0.25754794, y: 0.48969895, z: -0.15406534, w: -0.8186159}
     speed: 2
-    m_Value: {x: -0.23320045, y: 0.71638435, z: -0.28100273, w: -0.5945153}
+    m_Value: {x: -0.25754794, y: 0.48969895, z: -0.15406534, w: -0.8186159}
   m_Size:
-    m_Target: 1.1785411
+    m_Target: 3.5420277
     speed: 2
-    m_Value: 1.1785411
+    m_Value: 3.5420277
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -676,21 +676,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Resources/Environment
+    - Assets/Resources/Prefab
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Resources/Environment
+  - Assets/Resources/Prefab
   m_LastFoldersGridSize: 16
   m_LastProjectPath: D:\Work\Other\anymobile
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 3a5a0000
-    m_LastClickedID: 23098
+    m_SelectedIDs: d85c0000
+    m_LastClickedID: 23768
     m_ExpandedIDs: 00000000125a0000225a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
