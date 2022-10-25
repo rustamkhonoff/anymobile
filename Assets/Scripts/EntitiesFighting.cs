@@ -13,8 +13,18 @@ public class EntitiesFighting : MonoBehaviour
     {
         m_mediator = entitiesMediator;
 
+        m_mediator.OnEntitiesRecieved += StartCoroutines;
+    }
+
+    private void StartCoroutines()
+    {
         StartCoroutine(IE_CheckoutEntitiesTarget());
         StartCoroutine(IE_ControlEntitiesFight());
+    }
+
+    public void KillAllCoroutines()
+    {
+        StopAllCoroutines();
     }
 
     private IEnumerator IE_CheckoutEntitiesTarget()

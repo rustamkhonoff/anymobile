@@ -38,6 +38,8 @@ public class EntitiesMediator : MonoBehaviour
     }
     private void End()
     {
+        _fighting.KillAllCoroutines();
+
         Debug.Log(Entities.First() + " WINS!");
     }
 }
